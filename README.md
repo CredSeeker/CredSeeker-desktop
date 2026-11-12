@@ -3,7 +3,7 @@
 
 [![CredSeeker](https://img.shields.io/badge/credseeker-secret--scanner-2dd4bf)](https://github.com/your-username/credseeker) ![Latest version](https://img.shields.io/github/tag/your-username/credseeker.svg?label=latest) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-<p align="center"><img src="https://github.com/CredSeeker/CredSeeker-desktop/blob/main/credseeker_pic/credseeker-screenshot.png" alt="CredSeeker dashboard preview"/></p>
+<p align="center"><img src="https://github.com/CredSeeker/CredSeeker-desktop/blob/main/credseeker_pic/credseeker_demo.gif" alt="CredSeeker dashboard preview"/></p>
 
 ---
 
